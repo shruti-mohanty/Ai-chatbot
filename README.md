@@ -5,6 +5,8 @@ Welcome to the AI Chatbot project! This application is built using React and int
 
 Live link: https://shruti-ai-chatbot.netlify.app/
 
+---
+
 🚀 Features
 Real-Time Conversations: Engage in dynamic chats with the AI.
 
