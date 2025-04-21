@@ -7,7 +7,8 @@ Live link: https://shruti-ai-chatbot.netlify.app/
 
 ---
 
-🚀 Features
+🚀 Features:
+
 Real-Time Conversations: Engage in dynamic chats with the AI.
 
 Gemini API Integration: Leverages Google's Gemini API for generating responses.
