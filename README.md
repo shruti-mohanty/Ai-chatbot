@@ -1,4 +1,7 @@
 🤖 AI Chatbot with React & Gemini API
+
+--- 
+
 Welcome to the AI Chatbot project! This application is built using React and integrates Google's Gemini API to provide intelligent conversational experiences. It's designed to be user-friendly and serves as a practical example of how to implement a chatbot using modern web technologies.
 
 ---
